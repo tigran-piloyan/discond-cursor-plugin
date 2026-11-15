@@ -1,0 +1,15 @@
+{
+  "name": "discond",
+  "displayName": "Discond",
+  "version": "1.0.0",
+  "description": "Find live discounts at UAE restaurants, cafés and shops across Fazaa, The Entertainer, Talabat, bank cards and more.",
+  "author": {
+    "name": "Discond",
+    "email": "support@discond.ae"
+  },
+  "homepage": "https://www.discond.ae/en-us/developers",
+  "repository": "https://github.com/tigran-piloyan/discond-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["uae", "dubai", "discounts", "deals", "restaurants", "mcp"],
+  "logo": "assets/logo.png"
+}
